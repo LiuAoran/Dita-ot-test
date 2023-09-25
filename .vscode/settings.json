@@ -1,0 +1,9 @@
+{
+    "debug.terminal.clearBeforeReusing": false,
+    "python.terminal.executeInFileDir": false,
+    "python.terminal.launchArgs": [
+
+    ],
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.activateEnvInCurrentTerminal": true
+}
