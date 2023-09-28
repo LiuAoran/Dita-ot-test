@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "test_map.dtd">
+<map>
+    <title>test</title>
+    <topicref href="file1.md" format="mdita"/>
+    <topicref href="file2.md" format="mdita"/>
+</map>

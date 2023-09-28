@@ -1,0 +1,5 @@
+<!ELEMENT map (title,topicref+)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT topicref EMPTY>
+<!ATTLIST topicref href NMTOKEN #REQUIRED>
+<!ATTLIST topicref format NMTOKEN #REQUIRED>
