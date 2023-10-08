@@ -1,5 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    
+    <title>hello</title>
+    <topicref href="Content1.md" format="mdita">
+        <topicref href="NestedContent2.md" format = "mdita"></topicref>
+    </topicref>
+    <topicref href="Content2.md" format="mdita">
+        <topicref href="NestedContent1.md" format = "mdita"></topicref>
+        <topicref href="NestedContent2.md" format = "mdita"></topicref>
+    </topicref>
 </map>
